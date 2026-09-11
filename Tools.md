@@ -1,4 +1,6 @@
-### Tools 
+## Tools
+Tools used in this project. 
+
 #### Crimper, Open Barrel 
 I went with a hasstronics modular ratcheting kit. I had hoped I could use the double crimp dies that it came with, but these did not work with the thick SXL insulation and OE style thick crimps. I ended up using the single crimp die just as you would use with a non-ratcheting crimp. 
 
@@ -17,7 +19,7 @@ For turning crank shaft.
 #### Ratchet Wrench, 3/8 in Drive
 
 #### Extension, 3/8 in Drive, 1-3/4 in Long
-Helpful when you need just a small amount of offset. It’s one of my more often used extensions. It helps with some access to one of the carb idle speed screws when the air cleaner was on. 
+Helpful when you need just a small amount of offset. It’s one of my more often used extensions. It helps with some access to one of the carburetor idle speed screws when the air cleaner was on. 
 
 #### Universal Joint, 3/8 in Drive
 Helps with access to the bolt holding the bulkhead connector in place.
