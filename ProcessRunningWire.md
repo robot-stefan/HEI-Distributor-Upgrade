@@ -1,6 +1,12 @@
 ## Building & Running 14 AWG Power Wire to the Distributor
- 
-### Background:
+This process is split into two parts following the manner which I worked, but you could also have swapped out the distributor and then started with this process. The below list of contents can help move around the sections.
+
+### Contents
+1. [Background](#background)
+2. [Part I](#part-i)
+3. [Part II](#part-ii)
+
+### Background
 I chose to run from the bulkhead connector. Some examples online will add in a relay or run to the fuse panel that has provisions for ignition. I verified that part numbers for my ignition switch were the same for years that came with HEI. The wiring diagram can be found page 12-50 (pg. 1087) of the factory workshop manual.[^manuals] This diagram (Figure 56 in the manual) states a 20 AWG Black wire with Pink Print was used to power the factory distributor and coil. A simplified version of this wiring diagram is shown here in Figure 1. 
  
  ```mermaid
@@ -29,7 +35,7 @@ flowchart LR
 </div>
 
  
-### Finding the circuit we are replacing:
+### Part I
  From the factory this circuit terminates the bulkhead connector and the coil / distributor. 
  1. Disconnect or verify that the battery is disconnected.
  2. Locate the bulkhead connector on the diver side near the brake booster. You will need to remove the wiper fluid reservoir to get access. 
@@ -50,7 +56,7 @@ flowchart LR
 
  7. The circuit we need is one of the central ones and it is circled in the image of it. Verify this with multimeter set to continuity. 
 
- 8. To remove the blade, clean out the goop. Once this is cleaned you can use needle nose plier to squeeze the blade and pull it out from the back side of the connector. The presence of dirt and sealing goo can make it hard or impossible to remove, be sure to pick it out of that specific blade. Once done it is easy to remove.
+ 8. To remove the blade, clean out the goop. Once this is cleaned you can use needle nose pliers to squeeze the blade and pull it out from the back side of the connector. The presence of dirt and sealing goo can make it hard or impossible to remove, be sure to pick it out of that specific blade. Once done it is easy to remove.
 <div align="center">
     <img src="_media/BulkHeadWithBladeOut.jpg" alt="Bulk Head with No 3 Circle" width="550" align="center">
 </div>
@@ -89,22 +95,24 @@ flowchart LR
     <img src="_media/WireLoomTJointTransBracket.jpg" alt="Power Wire Female Terminal" width="350" align="center">
 </div>
 
- 21. Once wire has been routed and looms are back in place attach the housing from the distributor power connector pig tail to the wire by inserting the female terminal. 
+ 21. Once wire has been routed and looms are back in place attach the housing from the distributor power connector pig tail to the wire by inserting the female terminal. [^pigtail]
 
 > [!Note]
-> 22. At this point I paused this process and and started to remove and then install the new HEI unit. I came back to the last few steps after the HEI unit was installed. 
+> At this point I paused this process and and started to remove and then install the new HEI unit. I came back to the last few steps after the HEI unit was installed.
 
- 23. Open the top cap of the distributor shown.
+### Part II
+ 22. Open the top cap of the distributor shown.
 <div align="center">
     <img src="_media/HEIPowerBladeOut.jpg" alt="HEI Power Blade Out" width="350" align="center">
 </div>
 
- 24. Bend the blades slightly toward the center the distributor and test fit the connector. You will be looking for the blades to not pop up from inserting the power connector. 
+ 23. Bend the blades slightly toward the center the distributor and test fit the connector. You will be looking for the blades to not pop up from inserting the power connector. 
 
- 25. Reattach distributor cover. 
+ 24. Reattach distributor cover. 
 
- 26. Pull lightly on new power wire to verify secure attachment.
+ 25. Pull lightly on new power wire to verify secure attachment.
 
- 27. If issues with connection check blade alignment. This had to be adjusted as we are using thicker terminals which align slightly differently than the ones the distributor and the pig tails use.
+ 26. If issues with connection check blade alignment. This had to be adjusted as we are using thicker terminals which align slightly differently than the ones the distributor and the pig tails use.
 
-[^manuals]: Note: Reproduction manuals can be sourced from Dave Graham and Detroit Iron. I was able to get Dave Graham factory manuals on RockAuto.
+[^manuals]: Reproduction manuals can be sourced from Dave Graham and Detroit Iron. I was able to get Dave Graham factory manuals on RockAuto.
+[^pigtail]: I could not find the housing for the pigtail on its own. I removed the wires from the pig tail with a small flat head screw driver pressing down on the tabs from the non wire side and pulling on the wires. 
