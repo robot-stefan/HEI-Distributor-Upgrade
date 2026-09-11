@@ -15,4 +15,4 @@
     <img src="_media/TimingMarkAligned.jpg" alt="Timing Mark at 0 deg" width="350" align="center">
 </div>
 
-7. Keep turning motor over with wrench. You should start to feel pressure building on your finger. If pressure is building, you are on the compression stroke. If pressure is not building, you are 180 deg out of time and need to keep turning the engine over with the wrench. Till you get compression at the timing mark
+7. Keep turning motor over with wrench. You should start to feel pressure building on your finger. If pressure is building, you are on the compression stroke. If pressure is not building, you are on the exhaust stroke and would be 180 deg out of time if you used this mark. Keep turning the engine over with the wrench till you get compression at the timing mark
