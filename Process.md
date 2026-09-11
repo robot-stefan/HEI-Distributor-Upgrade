@@ -3,10 +3,27 @@
 </div>
 
 ## Process
-This is a somewhat involved project which required going through a number of forums, sites, and manuals. This is my attempt to combine as much info I could in one spot with notes from doing it. 
+This is a somewhat involved project which required going through a number of forums, sites, and manuals. This is my attempt to combine as much info I could in one spot with notes from doing it. The route I took was to find TDC, remove the old power wire, run the new power wire, swap in the new HEI unit, connect power wire, and then work on setting timing. I had to start and stop this project a number of times to research different aspects. I was unable to find any pictures or videos of the bulkhead connector for example and photos with explanation of this have been included. 
 
-### Background
- The wiring diagram can be found page 12-50 (1087) of the factory workshop manual. Reproduction manuals can be sourced from David Graham. This diagram Figure 56 states a 20 AWG Black wire with Pink Print was used to power the factory distributor and coil. I had to scrub a bit on the cable with some engine degreaser and rag to verify the print color. This is shown as circuit 3 on the bulkhead connector and is named Primary Ignition Voltage - Dropping Resistor in the Electrical Circuit Identification Table on 12-48 (1085). Another wire shown at circuit 7, which is 20 AWG Yellow and named Primary Ignition Bypass. Circuit 7 runs from the factory distributor and coil to the starter. This circuit 7 wire is absent from factory HEI systems compared to in the 76 model year. I did not replace this one. 
+  ```mermaid
+flowchart TD
+  A[Find Top Dead Center]
+  B[Building & Running New Power Wire - Part 1]
+  C[Remove Original Distributor]
+  D[Install HEI Distributor]
+  E[Building & Running New Power Wire - Part 2]
+  F[Set Engine Timing]
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> F
+  
+```
+<div align="center">
+  <strong>Chart Showing Process to Migrate from Points to HEI</strong>
+</div>
+<br/>
  
  ### Main Steps
  * [Finding Top Dead Center](ProcessFindingTDC.md)
