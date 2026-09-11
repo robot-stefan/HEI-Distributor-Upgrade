@@ -1,5 +1,5 @@
 ## Setting Timing
- A number of discussions will gravitate to this topic around higher performance applications and stock or daily driver context. The best route is to have an assistant’s help. I did not have an assistant, so I took a modified good enough approach for my objective of getting the car back to turning over for the 1st time in nearly 2 yrs. 
+ A number of discussions will gravitate to this topic around higher performance applications and not a stock or daily driver context. The best route is to have an assistant’s help so that you can check timing with mechanical advance at a higher rpm. I did not have an assistant, so I took a modified good enough approach for my objective of getting the car back to turning over for the 1st time in nearly 2 yrs. 
  
 ### Some Background
 #### The distributor has 3 forms of advance:
@@ -40,7 +40,7 @@ The approach I used without an assistant available who could rev the engine to 3
 5. Check timing. Should see something around 30 at idle. Idle being in the 700 range. 
    - Note: I was seeing in the 20s here and moved my plate to the next limit to get to 30 deg at idle.
    
-6. If idle is too fast adjust idle speed screw to get lower speed. The digital timing light with integrated rpm will come in super handy here.
+6. If idle is too fast adjust idle speed screw to get lower speed. Too fast of an idle and you will see some of the mechanical advance where you are trying to primairly check the vacuum advance + the advance from rotating the unit. The digital timing light with integrated rpm will come in super handy here.
 <div align="center">
     <img src="_media/2BarrelRochesterCarbScrews.jpg" alt="2 Barrel Rochester Adjustment Screws" width="550" align="center">
 </div>
