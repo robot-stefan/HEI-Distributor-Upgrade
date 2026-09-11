@@ -61,13 +61,16 @@ flowchart LR
     <img src="_media/BulkHeadWithBladeOut.jpg" alt="Bulk Head with No 3 Circle" width="550" align="center">
 </div>
 
- 9. With the blade removed start tracing the wire all the way back to the distributor and coil. Disconnect here. 
+ 9. With the blade removed start tracing the wire all the way back to the distributor and coil. Disconnect here if it is still factory it should be crimped onto one of the coil posts with another wire (which we also need to disconnect) that is yellow. The below figure shows this route. Note that yellow was used to provide contrast and that this is not the route of the yellow wire.  
 <div align="center">
-    <img src="_media/StarterFromUnder.jpg" alt="Starter from Under" width="350" align="center">
+    <img src="_media/PowerWireRoute.jpg" alt="Route of Power Wire Shown in Yellow" width="550" align="center">
 </div>
 
  10. Move under the car on the passenger side and disconnect from the starter the other end of circuit 7 (the yellow wire note that it can appear brown when very dirty verify by cleaning wire). For my vehicle circuit 3 & 7 were combined in a single terminal on the coil on the factory setup. 
- 
+ <div align="center">
+    <img src="_media/StarterFromUnder.jpg" alt="Starter from Under" width="350" align="center">
+</div>
+
  11. With that removed use a tape measure to compare the length of black wire. We will need to be longer than this to reach the new unit, but if you measure out something shorter than this value you need to recheck what you are doing.
  
  12. Now to do some testing making a crimp on this wire. Cut off a small 3 inch length of the new wire "Wire, Stranded, 14 AWG, Black, SXL (Pico Wire 82143S)".
