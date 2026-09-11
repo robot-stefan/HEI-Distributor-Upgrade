@@ -14,9 +14,8 @@ This project outlines converting a 1973 Chevorlet Impala from factory points ign
 ### Additional Resources 
 * On Stop Plates 
 ([GM Square Body Forum](https://www.gmsquarebody.com/threads/hei-vacuum-advance-stop-plate.43136/)) & ([Internet Archive](https://web.archive.org/web/20240519133052/https://www.gmsquarebody.com/threads/hei-vacuum-advance-stop-plate.43136/))
-
 * On Setting Timing
 ([GM Square Body Forum](https://www.gmsquarebody.com/threads/ignition-timing-for-first-generation-gm-v-8-engines.14508/)) & ([Internet Archive](https://web.archive.org/web/20240917015607/https://www.gmsquarebody.com/threads/ignition-timing-for-first-generation-gm-v-8-engines.14508/))
-
-* Worshop Manuals ([Dave Graham Auto Literature](https://davegrahamauto.com/)) & ([Detroit Iron](https://www.detroitironis.com/))
+* Overview & Notes ([Ray's Chevy Restoration Site](http://rmcavoy.freeshell.org/HEI.html)) & ([Internet Archive](https://web.archive.org/web/20250114162949/http://rmcavoy.freeshell.org/HEI.html))
+* Workshop Manuals ([Dave Graham Auto Literature](https://davegrahamauto.com/)) & ([Detroit Iron](https://www.detroitironis.com/))
 
