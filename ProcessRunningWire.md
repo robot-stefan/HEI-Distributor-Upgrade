@@ -1,7 +1,7 @@
 ## Building & Running 14 AWG Power Wire to the Distributor
  
 ### Background:
- The wiring diagram can be found page 12-50 (1087) of the factory workshop manual. Reproduction manuals can be sourced from David Graham. This diagram (Figure 56 in the manual) states a 20 AWG Black wire with Pink Print was used to power the factory distributor and coil. A simplified version of this wiring diagram is shown here in Figure 1. 
+I chose to run from the bulkhead connector. Some examples online will add in a relay or run to the fuse panel that has provisions for ignition. I verified that part numbers for my ignition switch were the same for years that came with HEI. The wiring diagram can be found page 12-50 (pg. 1087) of the factory workshop manual.[^manuals] This diagram (Figure 56 in the manual) states a 20 AWG Black wire with Pink Print was used to power the factory distributor and coil. A simplified version of this wiring diagram is shown here in Figure 1. 
  
  ```mermaid
 flowchart LR
@@ -15,7 +15,7 @@ flowchart LR
   <strong>Figure 1. Chart Showing Factory Setup</strong>
 </div>
 <br/>
-I had to scrub a bit on the cable with some engine degreaser and rag to verify the pink print color. This is shown as circuit 3 on the bulkhead connector and is named "Primary Ignition Voltage - Dropping Resistor" in the Electrical Circuit Identification Table on 12-48 (1085). Another wire shown at circuit 7, which is 20 AWG Yellow and named "Primary Ignition Bypass". Circuit 7 runs from the factory distributor and coil to the starter. This circuit 7 wire is absent from factory HEI systems compared to in the 1976 model year. I did not replace this yellow wire and the resulting new diagram becomes Figure 2. 
+I had to scrub a bit on the cable with some engine degreaser and rag to verify the pink print color. This is shown as circuit 3 on the bulkhead connector and is named "Primary Ignition Voltage - Dropping Resistor" in the Electrical Circuit Identification Table on 12-48 (pg. 1085). Another wire shown at circuit 7, which is 20 AWG Yellow and named "Primary Ignition Bypass". Circuit 7 runs from the factory distributor and coil to the starter. This circuit 7 wire is absent from factory HEI systems compared to in the 1976 model year. I did not replace this yellow wire and the resulting new diagram becomes Figure 2. 
 
 ```mermaid
 flowchart LR
@@ -48,29 +48,29 @@ flowchart LR
     <img src="_media/BulkHeadWithNo3PowerHighlight.jpg" alt="Bulk Head with No 3 Circle" width="550" align="center">
 </div>
 
- 7. The circuit we need is one of the central ones and it is circled in the image of it. 
+ 7. The circuit we need is one of the central ones and it is circled in the image of it. Verify this with multimeter set to continuity. 
 
  8. To remove the blade, clean out the goop. Once this is cleaned you can use needle nose plier to squeeze the blade and pull it out from the back side of the connector. The presence of dirt and sealing goo can make it hard or impossible to remove, be sure to pick it out of that specific blade. Once done it is easy to remove.
 <div align="center">
     <img src="_media/BulkHeadWithBladeOut.jpg" alt="Bulk Head with No 3 Circle" width="550" align="center">
 </div>
 
- 10. With the blade removed start tracing the wire all the way back to the distributor and coil. Disconnect here. 
+ 9. With the blade removed start tracing the wire all the way back to the distributor and coil. Disconnect here. 
 <div align="center">
     <img src="_media/StarterFromUnder.jpg" alt="Starter from Under" width="350" align="center">
 </div>
 
- 10. Move under the car on the passenger side and disconnect from the starter the other end of circuit 7 (the yellow wire). For my vehicle circuit 3 & 7 were combined in a single terminal on the coil. 
+ 10. Move under the car on the passenger side and disconnect from the starter the other end of circuit 7 (the yellow wire note that it can appear brown when very dirty verify by cleaning wire). For my vehicle circuit 3 & 7 were combined in a single terminal on the coil on the factory setup. 
  
  11. With that removed use a tape measure to compare the length of black wire. We will need to be longer than this to reach the new unit, but if you measure out something shorter than this value you need to recheck what you are doing.
  
  12. Now to do some testing making a crimp on this wire. Cut off a small 3 inch length of the new wire "Wire, Stranded, 14 AWG, Black, SXL (Pico Wire 82143S)".
  
- 13. Strip off a suitable amount on the wire with a wire stripper. 
+ 13. Strip off roughly 1/4 in of insulation at the end of the wire using a wire stripper. 
  
  14. Use the crimp tool either a ratcheting with a single crimp die or a hand crimper and place the open barrel crimp terminal on the wire. 
  
- 15. It took me a few tries to get the correct crimp. Iterating on force on the conductor and crimp force on the insulation portion of the crimp. Once you can do this correctly then move on.
+ 15. It took me a few tries to get the correct crimp. Iterating on force on the conductor and crimp force on the insulation portion of the crimp. Once you can do this correctly then move on. At first I had far too much crimp force on the insulation part of the crimp. 
 
  16. Cut the wire to length. I recorded a 72 in length for my run and I had 1 loop at the end. 
 
@@ -83,11 +83,16 @@ flowchart LR
 
  19. Apply "Grease, Dielectric Silicone" to the seam and back areas of the bulkhead connector. Goal here is to add some as an extra barrier to moisture and replace what may have been washed out by the contact cleaner before.
 
- 20. Installed bulkhead connector and route bundles through their previous locations while routing the new cable through the looms. I found a small body clip type pry tool to be helpful in opening the T joints in the loom to run the new wire. 
+ 20. Installed bulkhead connector and route bundles through their previous locations while routing the new cable through the looms. I found a small body clip type pry tool to be helpful in opening the T joints in the loom to run the new wire.
+
+<div align="center">
+    <img src="_media/WireLoomTJointTransBracket.jpg" alt="Power Wire Female Terminal" width="350" align="center">
+</div>
 
  21. Once wire has been routed and looms are back in place attach the housing from the distributor power connector pig tail to the wire by inserting the female terminal. 
 
- 22. At this point I paused this process and and started to remove and then install the new HEI unit. I came back to the last few steps after the HEI unit was installed. 
+> [!Note]
+> 22. At this point I paused this process and and started to remove and then install the new HEI unit. I came back to the last few steps after the HEI unit was installed. 
 
  23. Open the top cap of the distributor shown.
 <div align="center">
@@ -101,3 +106,5 @@ flowchart LR
  26. Pull lightly on new power wire to verify secure attachment.
 
  27. If issues with connection check blade alignment. This had to be adjusted as we are using thicker terminals which align slightly differently than the ones the distributor and the pig tails use.
+
+[^manuals]: Note: Reproduction manuals can be sourced from Dave Graham and Detroit Iron. I was able to get Dave Graham factory manuals on RockAuto.
