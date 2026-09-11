@@ -51,37 +51,6 @@ Good for cleaning up dirt off fasteners and areas where seals might go.
 #### Power Supply, Battery Tender
 Get one with a 12V supply and a battery repair function (similar to a NOCO genius 10 for example). I used this to test and maintain the vehicle battery before attempting to start. I also used it in 12V supply mode to power the timing light as I found the timing light cable to be too short for the size of the engine bay.
 
-### Parts
-#### Wire, Stranded, 14 AWG, Black, SXL (Pico Wire 82143S)
-Factory manual calls for black SXL wire for use from bulkhead to the distributor. Accel's directions list the use of 14 AWG wire. The GM workshop manuals for a 76 vehicle show 14 AWG SXL wire in this application as well. Summit, McMaster-Carr, and NAPA have options for this type of wire. SXL is an insulation for heat and abrasion. 
-
-#### Crimp, Open Barrel, 14 AWG, Packard (Pico 1599PT)
-Female crimp that goes into the connector which attaches to the distributor.
- 
-#### Crimp, Open Barrel, 14 AWG, Packard (Pico 1589PT)
-Male / Blade crimp that goes into the bulkhead connector. 
-
-#### Distributor, HEI, Accel (Accel 59130)
-This is the unit for Chevrolet / GM V8s.
-
-#### Pig Tail, HEI (SUM-890148)
-I removed the two wires from the housing and inserted the new 14 awg pico crimped end. 
-
-#### Wire Set, Spark Plugs (Summit - 888836)
-HEI distributor will require an updated set of sparkplug wires. 
-
-#### Cleaner, Electrical Contact
-Used to clean area around connector. It’s been closed for over 50 years and is covered in all types of dust and dirt. Cleaning connectors that have been in service like this can help reduce risks of them jamming or breaking when trying to disconnect them. Note that breaking is low risk to the size of the bulkhead connector. This was also helpful in cleaning some the cables to better trace them. 
-
-#### Grease, Dielectric Silicone
-Used on spark plug cable boots, bulkhead connector cavity for HEI wire. 
-
-#### Grease, Anti-seize
-Used on sparkplug threads
-
-#### Thread locker, Blue
-Used on vac advance limiter plate screw
-
 #### Tray, Magnetic, 6 in
 Used to temporarily store fasteners and sockets during work. 
 
