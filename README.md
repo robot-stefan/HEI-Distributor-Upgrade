@@ -4,7 +4,7 @@
 </div>
 
 ## Points to HEI Conversion 
-This project outlines converting a 1973 Chevorlet Impala from factory points ignition to a High Engery Ignition. This was done to add some simplification to maintance, allow for removal of the points equipment such that it could be reverted back in the future, and done in a way to make it be equavlent to how the vehicle would have been if HEI had been offered. HEI did not come fully standard until the 1975 model year. 
+This project outlines converting a 1973 Chevrolet Impala from factory points ignition to a High Energy Ignition. This was done to add some simplification to maintenance, allow for removal of the points equipment such that it could be reverted back in the future, and done in a way to make it be equivalent to how the vehicle would have been if HEI had been offered. HEI did not come fully standard until the 1975 model year. This car has a 350 Small Block engine and a 2 barrel Rochester carburetor. It does not have a tachometer. 
 
 ### Contents
 1. [Tools](Tools.md)
@@ -17,5 +17,5 @@ This project outlines converting a 1973 Chevorlet Impala from factory points ign
 * On Setting Timing
 ([GM Square Body Forum](https://www.gmsquarebody.com/threads/ignition-timing-for-first-generation-gm-v-8-engines.14508/)) & ([Internet Archive](https://web.archive.org/web/20240917015607/https://www.gmsquarebody.com/threads/ignition-timing-for-first-generation-gm-v-8-engines.14508/))
 * Overview & Notes ([Ray's Chevy Restoration Site](http://rmcavoy.freeshell.org/HEI.html)) & ([Internet Archive](https://web.archive.org/web/20250114162949/http://rmcavoy.freeshell.org/HEI.html))
-* Workshop Manuals ([Dave Graham Auto Literature](https://davegrahamauto.com/)) & ([Detroit Iron](https://www.detroitironis.com/))
+* Workshop Manuals ([Detroit Iron](https://www.detroitironis.com/))
 
