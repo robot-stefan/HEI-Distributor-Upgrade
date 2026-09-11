@@ -1,11 +1,18 @@
 ## Tools
-Tools used in this project. 
+<div align="center">
+    <img src="_media/Tools.jpg" alt="HEI Inserted" width="550" align="center">
+</div>
+<div align="center">
+  <strong>Figure 1. Assortment of Some of the Tools Used</strong>
+</div>
+<br/>
+
 
 #### Crimper, Open Barrel 
 I went with a hasstronics modular ratcheting kit. I had hoped I could use the double crimp dies that it came with, but these did not work with the thick SXL insulation and OE style thick crimps. I ended up using the single crimp die just as you would use with a non-ratcheting crimp. 
 
 #### Wire Stripper
-Any stripper rated for stranded 14 awg wire is fine. I used a self-adjusting unit from Klein tools.
+Any stripper rated for stranded 14 AWG wire is fine. I used a self-adjusting unit from Klein tools.
 
 #### Screw Driver, Flat Head, Long
 This is for turning the oil pump shaft to align with the - on the bottom of the HEI distributor. I didn’t have a long one so I made one as pictured out of a socket extension, a quick release flat head bit, and a square drive to quick release adapter. The adapter I got from Walmart’s hyper tough tool section. 
@@ -13,10 +20,11 @@ This is for turning the oil pump shaft to align with the - on the bottom of the 
 #### Ratchet Wrench, 1/2 in Drive, 18 in Long  
 Used for turning engine crank shaft to Top Dead Center. I used a unit from hyper tough with 72 tooth / 5 deg swing a slightly finer 92 tooth for example would have improved this process, but would possibly have not been worth the extra cost. 
 
-#### Socket, 1/2 in Drive, X in, Deep 
+#### Socket, 1/2 in Drive, 5/8 in, Deep 
 For turning crank shaft. 
 
 #### Ratchet Wrench, 3/8 in Drive
+General use with other fasteners.
 
 #### Extension, 3/8 in Drive, 1-3/4 in Long
 Helpful when you need just a small amount of offset. It’s one of my more often used extensions. It helps with some access to one of the carburetor idle speed screws when the air cleaner was on. 
@@ -27,20 +35,20 @@ Helps with access to the bolt holding the bulkhead connector in place.
 #### Extension, 3/8 in Drive, 10 in Long
 Helps with access to bolt holding the bulkhead connector in place. 
 
-#### Box Wrench, Flex Head Ratchet, X in
+#### Box Wrench, Flex Head Ratchet, 9/16 in
 Used for access to the distributor hold down clamp bolt. 
 
-#### Box Wrench, Flex Head Ratchet, X in  
+#### Box Wrench, Flex Head Ratchet, 7/16 in  
 Used for adjusting idle speed screw
 
-#### Box Wrench, X in 
-Used for adjusting idle stop solenoid screw
+#### Box Wrench, 1/2 in 
+Used for adjusting idle stop solenoid screw.
 
 #### Multimeter, Basic
 Used for continuity testing to validate bulkhead connector pin out with workshop manual and to trace contact to distributor. A basic non-RMS unit that has a beeper is sufficient for this. 
 
 #### Timing Light, Digital Dial Equipped
-If I could do this again, I would get a digital dial back timing light with a built in RPM / tac function. I tried to use a conventional style timing light with a dial back function and non-contact tachometer pointing at the balancer. Working distance for the balancer was a bit short for this engine bay and I would get inconsistent rpm readings. Innova make a what looks to be a good timing light unit. 
+If I could do this again, I would get a digital dial back timing light with a built in RPM / tachometer function. I tried to use a conventional style timing light with a dial back function and non-contact tachometer pointing at the balancer. Working distance for the balancer was a bit short for this engine bay and I would get inconsistent rpm readings. Innova make a what looks to be a good timing light unit. 
 
 #### Flush Cutter, Zip Tie and Wire 
 Used to flush cut wire and trim up zip ties during routing. 
@@ -58,3 +66,6 @@ Used to temporarily store fasteners and sockets during work.
 
 #### Pliers, Needle Nose
 Used for removing the blade terminal by squeezing on it.
+
+#### Pry Tool
+Used to help work bulkhead connector apart. Commonly associated with the trim plastic fasteners.
