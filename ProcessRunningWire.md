@@ -1,12 +1,38 @@
-## Building & Running 14 awg Power Wire to the Distributor
+## Building & Running 14 AWG Power Wire to the Distributor
  
 ### Background:
- The wiring diagram can be found page 12-50 (1087) of the factory workshop manual. Reproduction manuals can be sourced from David Graham. This diagram Figure 56 states a 20 AWG Black wire with Pink Print was used to power the factory distributor and coil. I had to scrub a bit on the cable with some engine degreaser and rag to verify the print color. This is shown as circuit 3 on the bulkhead connector and is named Primary Ignition Voltage - Dropping Resistor in the Electrical Circuit Identification Table on 12-48 (1085). Another wire shown at circuit 7, which is 20 AWG Yellow and named Primary Ignition Bypass. Circuit 7 runs from the factory distributor and coil to the starter. This circuit 7 wire is absent from factory HEI systems compared to in the 76 model year. I did not replace this one. 
+ The wiring diagram can be found page 12-50 (1087) of the factory workshop manual. Reproduction manuals can be sourced from David Graham. This diagram (Figure 56 in the manual) states a 20 AWG Black wire with Pink Print was used to power the factory distributor and coil. A simplified version of this wiring diagram is shown here in Figure 1. 
+ 
+ ```mermaid
+flowchart LR
+  A[Bulkhead]
+  B[Points Distributor]
+  C[Starter]
+  A <-- 20 AWG Black w/ Pink Print --> B
+  B <-- 20 AWG Yellow --> C
+```
+<div align="center">
+  <strong>Figure 1. Chart Showing Factory Setup</strong>
+</div>
+<br/>
+I had to scrub a bit on the cable with some engine degreaser and rag to verify the pink print color. This is shown as circuit 3 on the bulkhead connector and is named "Primary Ignition Voltage - Dropping Resistor" in the Electrical Circuit Identification Table on 12-48 (1085). Another wire shown at circuit 7, which is 20 AWG Yellow and named "Primary Ignition Bypass". Circuit 7 runs from the factory distributor and coil to the starter. This circuit 7 wire is absent from factory HEI systems compared to in the 1976 model year. I did not replace this yellow wire and the resulting new diagram becomes Figure 2. 
+
+```mermaid
+flowchart LR
+  A[Bulkhead]
+  B[HEI Distributor]
+  C[Starter]
+  A <-- 14 AWG Black --> B
+```
+<div align="center">
+  <strong>Figure 2. Chart Showing Setup After HEI Migration</strong>
+</div>
+
  
 ### Finding the circuit we are replacing:
  From the factory this circuit terminates the bulkhead connector and the coil / distributor. 
  1. Disconnect or verify that the battery is disconnected.
- 2. Locate the bulkhead connector on the diver side near the brake booster. You will need to remove the wiper fluid revisor to get access. 
+ 2. Locate the bulkhead connector on the diver side near the brake booster. You will need to remove the wiper fluid reservoir to get access. 
 <div align="center">
     <img src="_media/BulkHeadConnectorLocation.jpg" alt="Bulk Head Location" width="550" align="center">
 </div>
@@ -24,9 +50,12 @@
 
  7. The circuit we need is one of the central ones and it is circled in the image of it. 
 
- 8. To remove the blade, clean out the goop. Once this is cleaned you can use needle nose plier to squeeze the blade and pull it out from the back side of the connector. The presence of dirt and sealing goo can make it hard or impossible to remove, be sure to pick it out of that specific blade. Once done it is easy to remove. 
+ 8. To remove the blade, clean out the goop. Once this is cleaned you can use needle nose plier to squeeze the blade and pull it out from the back side of the connector. The presence of dirt and sealing goo can make it hard or impossible to remove, be sure to pick it out of that specific blade. Once done it is easy to remove.
+<div align="center">
+    <img src="_media/BulkHeadWithBladeOut.jpg" alt="Bulk Head with No 3 Circle" width="550" align="center">
+</div>
 
- 9. With the blade removed start tracing the wire all the way back to the distributor and coil. Disconnect here. 
+ 10. With the blade removed start tracing the wire all the way back to the distributor and coil. Disconnect here. 
 <div align="center">
     <img src="_media/StarterFromUnder.jpg" alt="Starter from Under" width="350" align="center">
 </div>
