@@ -18,6 +18,7 @@ This project outlines converting a 1973 Chevrolet Impala from factory points ign
 ([GM Square Body Forum](https://www.gmsquarebody.com/threads/ignition-timing-for-first-generation-gm-v-8-engines.14508/)) & ([Internet Archive](https://web.archive.org/web/20240917015607/https://www.gmsquarebody.com/threads/ignition-timing-for-first-generation-gm-v-8-engines.14508/))
 * Overview & Notes ([Ray's Chevy Restoration Site](http://rmcavoy.freeshell.org/HEI.html)) & ([Internet Archive](https://web.archive.org/web/20250114162949/http://rmcavoy.freeshell.org/HEI.html))
 * Workshop Manuals ([Detroit Iron](https://www.detroitironis.com/))
+* Old Car Manual Project ([Page on Rochester 2G Carbs](https://oldcarmanualproject.com/manuals/Carbs/Rochester/2-Jet/Manual/MCarbRoch1973__2G.htm)) & ([Internet Archive](https://web.archive.org/web/20240520104736/https://www.oldcarmanualproject.com/manuals/Carbs/Rochester/2-Jet/Manual/MCarbRoch1973__2G.htm))
 
 ### Vendors & Suppliers
 * I sourced the primary parts such as the distributor, SXL[^SXLNote] power wire, spark plug wires, and open barrel terminals from Summit Racing.
