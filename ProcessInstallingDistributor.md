@@ -34,7 +34,7 @@ The goal here is to get the new unit full seated with the rotor aligned close to
 <br/>
 
  5. With distributor seated, reinstall hold down clamp and bolt, but keep the clamp loose enough such that the distributor can be rotated but not such that engine vibrations might rotate it. 
- 6. Start installing sparkplugs using anti-seize on threads. 
+ 6. Start installing spark plugs using anti-seize on threads. The factory service manual lists 15 lb. ft. in the engine torque table on pg. Specifications 12. 
  7. Run and attach the spark plug wires. I found it best to lay them all out on table and then label them as they are for different lengths.
  8. Snug back all the accessories and visually inspect accessory belt routing. Check for belts not fully seated or aligned at each point they wrap on.
  9. Plug in the distributor power wire. 
