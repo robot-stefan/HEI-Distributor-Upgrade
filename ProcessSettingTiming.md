@@ -48,6 +48,12 @@ The approach I used without an assistant available who could rev the engine to 3
   <strong>Figure 2. Two Barrel Rochester Adjustment Screws Idle Stop / High Idle (Yellow) vs. Low speed Idle (Blue)</strong>
 </div>
 <br/>
+
 7. Be sure to check position of the idle stop solenoid screw this also sets idle speed and if set properly also prevents run-on / dieseling.
 
-Switching to ported vac from manifold once timing is settled. I have seen arguments for either vac advance setup. With ported a lower vac advance should be seen at idle and once rpm increases the vac advance should increase to match manifold. 
+8. Switching to ported vac from manifold once timing is settled. I have seen arguments for either vac advance setup.
+   - With ported a lower vac advance should be seen at idle and once rpm increases the vac advance should increase to match manifold.
+   - Also read that ported was introduced for vehicles with EGR which this engine is equipped with. 
+
+9. Once timing is achieved lock down distributor clamp bolt. The factory manual lists a torque spec of 20 lb. ft. on Engine Torques table found on page Specifications 12.
+   - Note: No idea how one would get a torque wrench into such an area to do that. I did not and only snugged it in. 
