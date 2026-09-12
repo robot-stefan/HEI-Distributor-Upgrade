@@ -1,4 +1,12 @@
 ## Parts
+<div align="center">
+    <img src="_media/WireCrimps.jpg" alt="HEI Inserted" width="550" align="center">
+</div>
+<div align="center">
+  <strong>Figure 1. Wire and Crimp Terminals</strong>
+</div>
+<br/>
+
 Parts and consumables used in this project listed below. 
 
 #### Wire, Stranded, 14 AWG, Black, SXL (Pico Wire 82143S)
