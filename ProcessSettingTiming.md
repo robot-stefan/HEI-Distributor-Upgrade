@@ -2,20 +2,17 @@
  A number of discussions will gravitate to this topic around higher performance applications and not a stock or daily driver context. The best route is to have an assistant’s help so that you can check timing with mechanical advance at a higher rpm. I did not have an assistant, so I took a modified good enough approach for my objective of getting the car back to turning over for the 1st time in nearly 2 yrs. 
  
 ### Some Background
+The goal with this process is to set timing such that spark happens before a cylinder gets to top dead center on the compression stroke. Hence the timing will have some advance. The advance will change with engine speed. Ideally it should be checked at idle (650 rpm) and highway cruise speed (3k rpm). Too much advance at high speeds can cause pinging in the engine. By adjusting timing we are calibrating the chemical combustion reaction to the engine. 
+
 #### The distributor has 3 forms of advance:
-1. Base Offset: From rotating the distributor. You will see with the vehicle at idle and no vac connected.
-2. Mechanical using weights and springs. This isn't really user adjustable, unless you start swapping out weights and springs. 
-3. Vacuum based using the vac port to add more advance at idle or low rpms than what a mechanical advance will do. 
+1. Base Offset: From rotating the distributor. You will see this with timing light and the vehicle at idle and no vac connected.
+2. Mechanical: Built in weights and springs. This isn't really user adjustable, unless you start swapping out weights and springs. You will see this with the vehicle at 3k rpm and no vac connected. 
+3. Vacuum: Based using the vac port to add more advance at idle or low rpms than what a mechanical advance will do. This can be limited on the unit used in this project by changing the orientation of the stop plate. This plate allows the unit to fit a wider range of applications / engine configurations. 
     
 #### There are 3 options for vacuum when setting timing:
 1. No vacuum: No line connected to the distributor and ports plugged.
 2. Ported: From the carb above the vanes. This varies from low at idle to ramping up once the throttle starts moving. 
 3. Manifold: From either on the manifold itself or from one of the lowest positions on the carb below the vanes. This is always high. 
-    
-#### There are 3 components of timing:
-1. Base Offset: From rotating the distributor. You will see with the vehicle at idle and no vac connected. 
-2. Mechanical: Nonadjustable by setup process.
-3. Vacuum: Adjustable by changing orientation of stop plate to set the upper limit. 
     
 #### Engine Run-On / Dieseling:
 If you are getting this when you turn off the vehicle during this process. It comes from 3 main sources here.
@@ -37,7 +34,7 @@ The approach I used without an assistant available who could rev the engine to 3
 </div>
 <br/>
 
-5. Check timing. Should see something around 30 at idle. Idle being in the 700 range. 
+5. Check timing. Should see something around 30 at idle. Idle being in the 600-700 range. 
    - Note: I was seeing in the 20s here and moved my plate to the next limit to get to 30 deg at idle.
    
 6. If idle is too fast adjust idle speed screw to get lower speed. Too fast of an idle and you will see some of the mechanical advance where you are trying to primairly check the vacuum advance + the advance from rotating the unit. The digital timing light with integrated rpm will come in super handy here.
